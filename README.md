@@ -57,6 +57,27 @@ java -version
 Apache Maven for software management
 https://maven.apache.org/
 
+set bin PATH
+copy the path: C:\Program Files\Apache\Maven\bin
+open Environment Variables > Advanced > Environment Variables > System variables > PATH
+Doubleclick
+New
+Paste
+
+set MAVEN_HOME
+set bin PATH
+copy the path: C:\Program Files\Apache\Maven
+open Environment Variables > Advanced > Environment Variables > System Variables
+New
+Variable name: MAVEN_HOME
+Variable value: C:\Program Files\Apache\Maven
+
+Maven version
+
+```
+mvn -version
+```
+
 <div>
   <p align="center">
     <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/selenide.png" height="64px">
