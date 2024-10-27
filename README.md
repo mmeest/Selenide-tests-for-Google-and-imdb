@@ -92,26 +92,6 @@ Dependency
 
 <div>
   <p align="center">
-    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/slf4j.png" height="64px">
-  </p>
-</div>
-
-SLF4J - Simple Logging Fascade 4 Java
-https://www.slf4j.org/
-
-Dependency
-
-```
-<!-- SLF4J -->
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-simple</artifactId>
-            <version>1.7.36</version>
-        </dependency>
-```
-
-<div>
-  <p align="center">
     <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/allure.png" height="64px">
   </p>
 </div>
