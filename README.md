@@ -4,15 +4,35 @@ Getting 5 persons born today from imdb site
 
 ## Tools used
 
+<div>
+  <p>
+    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/intellij.png" heigth="64px">
+  </p>
+</div>
+
 IntelliJ IDEA for code writing from JetBrains
 https://www.jetbrains.com/idea/
 
-
+<div>
+  <p>
+    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/java.png" heigth="64px">
+  </p>
+</div>
 
 Java programming language from Oracle
 https://www.java.com/en/
 
+Check JAVA version
 
+```
+java -version
+```
+
+<div>
+  <p>
+    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/selenide.png" heigth="64px">
+  </p>
+</div>
 
 Selenide framework with Selenium web driver
 https://selenide.org/
@@ -29,7 +49,11 @@ Dependency
         </dependency>
 ```
 
-
+<div>
+  <p>
+    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/testng.png" heigth="64px">
+  </p>
+</div>
 
 TestNG testing framework
 https://testng.org/
@@ -46,7 +70,11 @@ Dependency
         </dependency>
 ```
 
-
+<div>
+  <p>
+    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/slf4j.png" heigth="64px">
+  </p>
+</div>
 
 SLF4J - Simple Logging Fascade 4 Java
 https://www.slf4j.org/
@@ -62,7 +90,11 @@ Dependency
         </dependency>
 ```
 
-
+<div>
+  <p>
+    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/allure.png" heigth="64px">
+  </p>
+</div>
 
 Allure Report for automation testing
 https://allurereport.org/
