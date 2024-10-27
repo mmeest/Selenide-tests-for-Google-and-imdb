@@ -1,6 +1,20 @@
 # Selenide-tests-for-Google-and-imdb
 Getting 5 persons born today from imdb site
 
+## Initial task
+
+An automated test for imdb.com.
+Technology/tool stack: use java, Selenide, TestNG, Allure Report
+
+Test scenario:
+1) open google.com
+2) search for "imdb"
+3) click on correct search result that redirects to imdb.com
+4) click on Menu button
+5) click on "Born Today"
+6) print out 5 first celebrities who were born today
+
+Add assertions where necessary.
 
 ## Tools used
 
