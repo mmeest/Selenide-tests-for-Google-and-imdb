@@ -148,3 +148,9 @@ Dependency
             <version>2.20.1</version>
         </dependency>
 ```
+
+To generate Allure report after tests
+
+```
+mvn clean test allure:serve
+```
