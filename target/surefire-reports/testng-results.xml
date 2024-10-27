@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-27T20:00:30 EET" name="Surefire suite" finished-at="2024-10-27T20:01:14 EET" duration-ms="43382">
+    <groups>
+    </groups>
+    <test started-at="2024-10-27T20:00:30 EET" name="Surefire test" finished-at="2024-10-27T20:01:14 EET" duration-ms="43382">
+      <class name="NewTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:NewTest@6cd28fa7]" started-at="2024-10-27T20:00:30 EET" name="setup" finished-at="2024-10-27T20:00:37 EET" duration-ms="6702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="userCanSearchInGoogle()[pri:0, instance:NewTest@6cd28fa7]" started-at="2024-10-27T20:00:37 EET" name="userCanSearchInGoogle" finished-at="2024-10-27T20:01:13 EET" duration-ms="36510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userCanSearchInGoogle -->
+      </class> <!-- NewTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
