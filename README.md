@@ -6,7 +6,7 @@ Getting 5 persons born today from imdb site
 
 <div>
   <p>
-    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/intellij.png" heigth="64px">
+    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/intellij.png" height="64px">
   </p>
 </div>
 
@@ -15,7 +15,7 @@ https://www.jetbrains.com/idea/
 
 <div>
   <p>
-    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/java.png" heigth="64px">
+    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/java.png" height="64px">
   </p>
 </div>
 
@@ -30,7 +30,7 @@ java -version
 
 <div>
   <p>
-    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/selenide.png" heigth="64px">
+    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/selenide.png" height="64px">
   </p>
 </div>
 
@@ -51,7 +51,7 @@ Dependency
 
 <div>
   <p>
-    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/testng.png" heigth="64px">
+    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/testng.png" height="64px">
   </p>
 </div>
 
@@ -72,7 +72,7 @@ Dependency
 
 <div>
   <p>
-    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/slf4j.png" heigth="64px">
+    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/slf4j.png" height="64px">
   </p>
 </div>
 
@@ -92,7 +92,7 @@ Dependency
 
 <div>
   <p>
-    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/allure.png" heigth="64px">
+    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/allure.png" height="64px">
   </p>
 </div>
 
