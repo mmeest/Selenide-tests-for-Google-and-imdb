@@ -1,3 +1,9 @@
+<div>
+  <p align="center">
+    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/imdbmest.png" height="128px">
+  </p>
+</div>
+
 # Selenide-tests-for-Google-and-imdb
 Getting 5 persons born today from imdb site
 
