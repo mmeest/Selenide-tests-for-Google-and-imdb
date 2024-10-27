@@ -50,6 +50,15 @@ java -version
 
 <div>
   <p align="center">
+    <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/Maven.png" height="64px">
+  </p>
+</div>
+
+Apache Maven for software management
+https://maven.apache.org/
+
+<div>
+  <p align="center">
     <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/selenide.png" height="64px">
   </p>
 </div>
