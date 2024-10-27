@@ -5,7 +5,7 @@ Getting 5 persons born today from imdb site
 ## Tools used
 
 <div>
-  <p>
+  <p align="center">
     <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/intellij.png" height="64px">
   </p>
 </div>
@@ -14,7 +14,7 @@ IntelliJ IDEA for code writing from JetBrains
 https://www.jetbrains.com/idea/
 
 <div>
-  <p>
+  <p align="center">
     <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/java.png" height="64px">
   </p>
 </div>
@@ -29,7 +29,7 @@ java -version
 ```
 
 <div>
-  <p>
+  <p align="center">
     <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/selenide.png" height="64px">
   </p>
 </div>
@@ -50,7 +50,7 @@ Dependency
 ```
 
 <div>
-  <p>
+  <p align="center">
     <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/testng.png" height="64px">
   </p>
 </div>
@@ -71,7 +71,7 @@ Dependency
 ```
 
 <div>
-  <p>
+  <p align="center">
     <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/slf4j.png" height="64px">
   </p>
 </div>
@@ -91,7 +91,7 @@ Dependency
 ```
 
 <div>
-  <p>
+  <p align="center">
     <img src="https://github.com/mmeest/Selenide-tests-for-Google-and-imdb/blob/master/img/allure.png" height="64px">
   </p>
 </div>
